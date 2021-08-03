@@ -16,6 +16,7 @@ app with the data.
 ## Demo
 
 https://grad-admission.herokuapp.com/
+[![](https://i.imgur.com/DftJhdA.png)](https://grad-admission.herokuapp.com/)
 
   
 ## Installation
