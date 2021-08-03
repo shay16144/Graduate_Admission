@@ -10,7 +10,7 @@ credentials of your peers.
 
 Originally a kaggle task to acquire the lowest RMSE, I decided to
 build on my end to end project making skills and create a flask 
-app with the data.
+app with the data, which can be found here https://www.kaggle.com/mohansacharya/graduate-admissions
 
 
 ## Demo
@@ -48,8 +48,5 @@ The dataset is owned by Mohan S Acharya.
 
 Mohan S Acharya, Asfia Armaan, Aneeta S Antony : A Comparison of Regression Models for Prediction of Graduate Admissions, IEEE International Conference on Computational Intelligence in Data Science 2019
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
+ 
   
